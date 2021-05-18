@@ -1,0 +1,12 @@
+Mi nombre es Joshua Daniel y esta es mi historia:
+
+Tengo 26 años y estoy iniciando en este maravilloso mundo de la programacion. ¡Algo ironico de hecho! porque años atras me encontraba estudiando ingenieria civil y la materia que mas se me dificulto fue programacion, ahora no entiendo como pude cogerle tanto fastidio, supongo que
+debe marcar una enorme diferencia el maestro y la motivacion que siembra en sus estudiantes, claro que tambien era una materia ajena a mi carrera asi que nunca le preste una debida atencion. Pero ahora incusionando en el tema mas a profundidad me doy cuenta que esta es mi vocacion,
+con cada curso que termino, con cada creacion de proyecto, solo me enamoro mas de esta profesion y es muy gratificante el hecho de poder crear una pagina web o una aplicacion, el esfuerzo que se hace para aprender es enorme porque la verdad aprender se ve facil pero solo si se es constante,
+el campo para aprender es muy amplio, y siempre hay algo nuevo por aprender. Creo que esa es una de mis fortalezas, toda la vida he querido hacer de todo, en deportes practique de todo durante mi niñez, me inscribia a cursos complementarios cuando estaba en el colegio y tamnbien en la universidad,
+en la pandemia incursione mas en la gastronomia y mi amor por la cocina crecio, asi como tambien aprendi a hacer un huerto casero en el patio de mi casa, le cogi mas amor a la naturaleza  y cree el habito de una rutina saludable haciendo ejercicio, traking, ciclismo, o jugando futbol. 
+
+Asi es como fui cambiando mi vida, mis habitos, mi fe, mis sueños, mis metas, y ahora solo me dedico a trabajar como asesor comercial de ventas con una agencia de seguros, gano por comision pero no me quejo, tengo el tiempo necesario para dedicarlo a mis estudios en platzi y terminar de formarme 
+como frontend developer para poder empezar profesionalmente en este mundo del desarrollo web, que por cierto fue por un amigo de la infancia que termine interesandome por esta nueva profesion, pues me ha motivado y me ha mostrado los frutos y logros que le ha dejado la programacion en los 3 años que
+lleva trabajando como desarrollador. Ahora me encuentro aprendiendo Git & Github y con ganas de mas...
+
