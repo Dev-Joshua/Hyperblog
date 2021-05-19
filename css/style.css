@@ -1,5 +1,19 @@
 body {
-    color: saddlebrown;
+    color: #333;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid #DDD;
+    margin: 0 auto;
+    text-align: center;
+}
+#container h1 {
+    font-size: 25px;
 }
