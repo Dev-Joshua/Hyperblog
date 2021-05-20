@@ -21,6 +21,7 @@ body {
     padding: 0.5em;
 }
 #container {
+    background: darkgray;
     width: 70%;
     padding: 1em;
     text-align: left;
